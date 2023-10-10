@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: baed33c1ac005bb4b9027e5af85bd593
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameManagerGO: {instanceID: 0}
+  - PlayerBullet: {instanceID: 0}
+  - NotePosition01: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  - Hit: {fileID: 5563378507642057692, guid: 4aa49c5e5e9978241ae63bd97fa8cece, type: 3}
+  - LivesUIText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
